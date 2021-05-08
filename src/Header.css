@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgb(250, 247, 247);
+}
+.tinderlogo {
+  height: 25px;
+  object-fit: contain;
+  width: 50px;
+  padding: 20px;
+}
+.header_icon {
+  padding: 20px;
+  color: rgb(110, 106, 106);
+}
